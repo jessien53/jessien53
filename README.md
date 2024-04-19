@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Jessie, a Computer Science student passionate about software development and technology.
 
-<!--
-**jessien53/jessien53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi there! I'm [Your Name], a Computer Science student passionate about software development and technology.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning and exploring various programming languages and software development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I enjoy working on projects that challenge me and help me grow as a developer.
+
+- 🔗 Connect with me on LinkedIn: [Your LinkedIn Profile URL]
+
+- 📫 Reach me at: nouna.jessie@gmail.com
+
+- 🌟 Let's collaborate and create something amazing together!

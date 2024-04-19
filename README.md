@@ -4,7 +4,7 @@
 
 - 💻 I enjoy working on projects that challenge me and help me grow as a developer.
 
-- 🔗 Connect with me on LinkedIn: [Your LinkedIn Profile URL]
+- 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/jessienouna/
 
 - 📫 Reach me at: nouna.jessie@gmail.com
 
